@@ -1,0 +1,22 @@
+.button__container{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 120px;
+}
+button{
+    margin-right: 40px;
+    background-color: white;
+    border: none;
+    font-size: 14px;
+    font-weight: 100;
+    outline: none;
+    border: 1px solid rgb(189, 188, 188);
+    padding: 6px 15px 6px 15px;
+}
+button:hover{
+   color:rgb(53, 172, 172);
+   border: 1px solid rgb(53, 172, 172);
+}
+.grid-ag{
+    margin-top: 20px;
+}
